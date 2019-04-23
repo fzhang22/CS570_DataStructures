@@ -2,7 +2,7 @@
 
 [Assignment_1 BinaryNumber](Assignment1_BinaryNumber)
 
-[Assignment_2 Complexity](/CS570_DataStructures/Assignment2 _Complexity)
+[Assignment_2 Complexity](../CS570_DataStructures/Assignment2 _Complexity)
 
 
 
