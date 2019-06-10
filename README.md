@@ -2,7 +2,7 @@
 
 [Assignment_1 BinaryNumber](Assignment1_BinaryNumber)
 
-[Assigment_2 Complexity](Assignment2_Complexity)
+[Assignment_2 Complexity](Assignment2_Complexity)
 
 
 
